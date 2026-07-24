@@ -196,6 +196,11 @@ aryanpatel: # by https://github.com/aryanpatel142006
   type: CNAME
   value: cname.vercel-dns.com. # vercel
 
+as: # Jacob N // @Jacob // U0AEYDUCLKF // jacob.navaratne@outlook.com
+- type: CNAME
+  value: mini-jacob.hackclub.app.
+  ttl: 600
+
 asclub: # Jacob N // @Jacob // U0AEYDUCLKF // jacob.navaratne@outlook.com
 - type: CNAME
   value: mini-jacob.hackclub.app.
@@ -357,6 +362,9 @@ controlline: # Github: NoIwantyourcode slack: U0A269NG76F
   type: A
   value: 216.198.79.1
 
+convert3d: # U0B7SMP7PU6
+- type: CNAME
+  value: planema4.hackclub.app.
 copilot: # @Yasin U07F2TA4YVB yasin@flonga.org https://yasina74.github.io/copilot-ysws/
 - ttl: 600
   type: CNAME
@@ -414,6 +422,16 @@ dev-email:
   type: TXT
   values:
   - v=spf1 include:spf.improvmx.com ~all
+
+hcai.devansh: # devansh.awat@gmail.com https://github.com/Devansh-awat
+- ttl: 600
+  type: A
+  value: 140.245.203.110
+
+stardance.devansh: # devansh.awat@gmail.com https://github.com/Devansh-awat
+- ttl: 600
+  type: A
+  value: 140.245.203.110
 
 devlife: # https://github.com/amarieidavid26-byte  Email: amariei.david26@gmail.com
 - ttl: 600
@@ -660,6 +678,11 @@ dev.hkgi: # HKGI test instance
   type: CNAME
   value: garden.devcara.com.
 
+hypothesis: # rasmus.stenlund@gmail.com
+  ttl: 600
+  type: CNAME
+  value: rasmusstenlund.github.io
+
 icons: # yoda - https://github.com/yodalightsabr/icons-dino-icu - a CDN for @hackclub/icons
   ttl: 600
   type: A
@@ -785,6 +808,11 @@ kunal: # kunal
   - ns1.vercel-dns.com.
   - ns2.vercel-dns.com.
 
+kyto: # devansh.awat@gmail.com https://github.com/Devansh-awat
+- ttl: 600
+  type: A
+  value: 140.245.203.110
+
 la: # Laker Turner's links page - @lxjv or @la / @laker in the slack
   ttl: 600
   type: CNAME
@@ -799,7 +827,14 @@ levelzero: # @arjav0703 (gh) - ysws website
   ttl: 600
   type: A
   value: 216.198.79.1
+  
+library: # koy@camerini.me U0ALZQ9FP9P
+- type: CNAME
+  value: library-ysws.vercel.app.
 
+libreassistant: # mostlime@outlook.com
+- type: CNAME
+  value: mostlime.hackclub.app.
 lkmw:
   ttl: 600
   type: CNAME
@@ -869,6 +904,11 @@ misskey: #hackisskey | korange753@gmail.com U091Q2MS3T9
 - ttl: 600
   type: TXT
   value: domain-verification=korange # for Nest
+
+mkv: # drew@drewfitzgerald.co.nz U0AA0EU3G3V
+  - type: CNAME
+    value: mkv.wchouses.co.nz.
+    ttl: 600 # OPTIONAL (defaults to 600)
 
 molecule: # by https://github.com/RasmusStenlund
   ttl: 600
@@ -1162,6 +1202,11 @@ scavenger: # U076W5GKC48
   type: CNAME
   value: nate-greco.github.io.
 
+schemabuilder: # hackclub-dns@fabian.ternismail.de U0B8JTZDTKQ
+  - ttl: 18000
+    type: A
+    value: 77.90.15.2 # vweb01.eu
+
 sdheeraj: # https://github.com/17sdheeraj/17sdheeraj.github.io
   ttl: 600
   type: CNAME
@@ -1341,6 +1386,11 @@ toonnongaeoy:
 - ttl: 600
   type: CNAME
   value: storyhouseproduction.duckdns.org.
+
+twisted: # for the twisted ysws! (kavyanshkhaitan11@gmail.com, U0A7776A2MT)
+- ttl: 600
+  type: A
+  value: 38.19.201.74
 
 txt: # Noah, slack: U09482L7QP5
 - ttl: 600

@@ -212,6 +212,9 @@ baguette: # blog
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+battleboy96: # tggblake.2012@gmail.com - U0B8T98PV41
+- type: AAAA
+  value: 2a01:4f9:3080:3192::2083
 bedtime: # dristiroy@gmail.com U08R7L3E859
   ttl: 600
   type: CNAME
@@ -295,6 +298,9 @@ cad: # by https://github.com/leecheeyong/community-widgets
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+calc: # mattsoh@hackclub.com U07DPHQCCCS
+- type: AAAA
+  value: 2a05:d01c:8bb:ac00:4f37:2224:5a76:e7fc
 calculate: # candyisakat@gmail.com U082PKSD15L
 - ttl: 600
   type: A
@@ -430,15 +436,15 @@ dev-email:
   type: TXT
   values:
   - v=spf1 include:spf.improvmx.com ~all
-coolify.devansh: # devansh.awat@gmail.com https://github.com/Devansh-awat
-- ttl: 600
-  type: A
-  value: 140.245.203.110
-"*.coolify.devansh": # devansh.awat@gmail.com https://github.com/Devansh-awat
-- ttl: 600
-  type: A
-  value: 140.245.203.110
 hcai.devansh: # devansh.awat@gmail.com https://github.com/Devansh-awat
+- ttl: 600
+  type: A
+  value: 140.245.203.110
+orchard.devansh: # devansh.awat@gmail.com https://github.com/Devansh-awat
+- ttl: 600
+  type: A
+  value: 140.245.203.110
+"*.orchard.devansh": # devansh.awat@gmail.com https://github.com/Devansh-awat
 - ttl: 600
   type: A
   value: 140.245.203.110
@@ -827,6 +833,10 @@ lkmw:
   ttl: 600
   type: CNAME
   value: wilkin.xyz.
+loadout: # jeremyyeboahdarko@gmail.com
+- ttl: 600
+  type: A
+  value: 216.198.79.1
 loners: # support+loners@swehosting.pl
 - ttl: 600
   type: CNAME
